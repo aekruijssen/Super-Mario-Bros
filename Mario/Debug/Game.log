@@ -1,0 +1,41 @@
+﻿  Actor.cpp
+c:\users\adina\super-mario-bros\mario\actor.cpp(26): warning C4018: '<': signed/unsigned mismatch
+  AnimatedSprite.cpp
+  Block.cpp
+  CollisionComponent.cpp
+  Component.cpp
+  Game.cpp
+c:\users\adina\super-mario-bros\libraries\sdl\include\sdl\sdl_mixer.h(103): warning C4099: 'Mix_Chunk': type name first seen using 'class' now seen using 'struct'
+  c:\users\adina\super-mario-bros\libraries\sdl\include\sdl\sdl_mixer.h(103): note: see declaration of 'Mix_Chunk'
+c:\users\adina\super-mario-bros\mario\game.cpp(215): warning C4018: '<': signed/unsigned mismatch
+c:\users\adina\super-mario-bros\mario\game.cpp(219): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\adina\super-mario-bros\mario\game.cpp(224): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\adina\super-mario-bros\mario\game.cpp(234): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\adina\super-mario-bros\mario\game.cpp(201): warning C4101: 'x': unreferenced local variable
+  Goomba.cpp
+  GoombaMove.cpp
+  Main.cpp
+  Math.cpp
+  MoveComponent.cpp
+  Player.cpp
+  PlayerMove.cpp
+c:\users\adina\super-mario-bros\libraries\sdl\include\sdl\sdl_mixer.h(103): warning C4099: 'Mix_Chunk': type name first seen using 'class' now seen using 'struct'
+  c:\users\adina\super-mario-bros\libraries\sdl\include\sdl\sdl_mixer.h(103): note: see declaration of 'Mix_Chunk'
+  Random.cpp
+  Spawner.cpp
+  SpriteComponent.cpp
+  Generating Code...
+  Game.vcxproj -> C:\Users\adina\Super-Mario-Bros\Mario\Debug\Game.exe
+  C:\Users\adina\Super-Mario-Bros\Mario\\..\Libraries\SDL\lib\win\x86\libfreetype-6.dll
+  C:\Users\adina\Super-Mario-Bros\Mario\\..\Libraries\SDL\lib\win\x86\libogg-0.dll
+  C:\Users\adina\Super-Mario-Bros\Mario\\..\Libraries\SDL\lib\win\x86\libpng16-16.dll
+  C:\Users\adina\Super-Mario-Bros\Mario\\..\Libraries\SDL\lib\win\x86\libvorbis-0.dll
+  C:\Users\adina\Super-Mario-Bros\Mario\\..\Libraries\SDL\lib\win\x86\libvorbisfile-3.dll
+  C:\Users\adina\Super-Mario-Bros\Mario\\..\Libraries\SDL\lib\win\x86\SDL2.dll
+  C:\Users\adina\Super-Mario-Bros\Mario\\..\Libraries\SDL\lib\win\x86\SDL2_image.dll
+  C:\Users\adina\Super-Mario-Bros\Mario\\..\Libraries\SDL\lib\win\x86\SDL2_mixer.dll
+  C:\Users\adina\Super-Mario-Bros\Mario\\..\Libraries\SDL\lib\win\x86\SDL2_ttf.dll
+  C:\Users\adina\Super-Mario-Bros\Mario\\..\Libraries\SDL\lib\win\x86\zlib1.dll
+  10 File(s) copied
+  C:\Users\adina\Super-Mario-Bros\Mario\\..\Libraries\GLEW\lib\win\x86\glew32.dll
+  1 File(s) copied
